@@ -1,1 +1,2 @@
-# max_to_processing_osc
+# Get an OSC message from Max/MSP to Processing
+
